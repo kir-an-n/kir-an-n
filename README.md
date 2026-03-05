@@ -1,4 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Kiran%20👋&fontSize=40&fontAlignY=35"/>
+<h1 align="center">Hi 👋 I'm Kiran</h1>
+
+<p align="center">
+Computer Science Student • Future Web Developer • Learning DSA
+</p>
+https://readme-typing-svg.herokuapp.com
 # Hi, I'm Kiran 👋
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&width=435&lines=Python+Developer;Django+Learner;Streamlit+App+Builder;Learning+Data+Structures+%26+Algorithms" />
@@ -10,14 +15,13 @@ Practicing Data Structures & Algorithms on LeetCode
 ---
 
 ## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/>
   
+<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="60"/>
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="60"/>
+</p>
 
 ---
 
