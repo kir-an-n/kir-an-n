@@ -1,8 +1,8 @@
 # Hi, I'm Kiran 👋
 
-🎓 Computer Science Student  
-🐍 Learning Python & DSA  
-🌱 Focused on building strong fundamentals  
+Aspiring software developer  
+Building projects with Python, Django & Streamlit  
+Practicing Data Structures & Algorithms on LeetCode
 
 ---
 
