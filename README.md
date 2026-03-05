@@ -36,4 +36,4 @@ Practicing Data Structures & Algorithms on LeetCode
 ## 🚀 Goals
 - Build strong DSA foundations  
 - Create real projects  
-  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kir-an-nE&theme=github_dark)
