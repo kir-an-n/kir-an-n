@@ -1,5 +1,7 @@
 # Hi, I'm Kiran 👋
-
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&width=435&lines=Python+Developer;Django+Learner;Streamlit+App+Builder;Learning+Data+Structures+%26+Algorithms" />
+</p>
 Aspiring software developer  
 Building projects with Python, Django & Streamlit  
 Practicing Data Structures & Algorithms on LeetCode
