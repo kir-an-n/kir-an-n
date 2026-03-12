@@ -4,9 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&width=500&lines=Computer+Science+Engineer;Python+%26+AI+Developer;Building+BillSmart+%F0%9F%A7%BE;Streamlit+%7C+Django+%7C+HTML+%7C+CSS;National+Level+Artist+%F0%9F%8E%A8" />
 </p>
 
-<p align="center">
-Final year CSE student at IIIT Nagpur • Building AI tools that solve real Indian problems
-</p>
+
 
 ---
 
