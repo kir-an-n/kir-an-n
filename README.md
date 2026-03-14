@@ -106,7 +106,7 @@ BillSmart solves a problem 500 million UPI users face daily: where did the money
 
 <div align="center">
 
-*"Lemme be wrong, lemme fail, lemme learn, lemme correct, lemme take the chance."*
+*"Lemme be wrong, lemme fail, lemme learn, lemme correct, lemme take the chance, lemem do ."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
