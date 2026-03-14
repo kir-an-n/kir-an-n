@@ -1,60 +1,61 @@
-<h1 align="center">Hi 👋 I'm Kiran</h1>
+Readme · MDCopy<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kiran&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Engineer%20%7C%20AI%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+AI-powered+products+%F0%9F%9A%80;Python+%7C+Streamlit+%7C+Flask+%7C+Django;Turning+real+problems+into+real+software;National+Level+Artist+%F0%9F%8E%A8+%7C+DSA+Grinder+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
+<br/>
+Show Image
+Show Image
+Show Image
+</div>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&width=500&lines=Computer+Science+Engineer;Python+%26+AI+Developer;Building+BillSmart+%F0%9F%A7%BE;Streamlit+%7C+Django+%7C+HTML+%7C+CSS;National+Level+Artist+%F0%9F%8E%A8" />
-</p>
+👨‍💻 About Me
+I'm a Computer Science Engineer from India focused on building AI-powered tools that solve real-world problems. My current obsession is BillSmart — an intelligent receipt scanner built for the 500M+ UPI users in India. I believe the best software is invisible: it just works, and it works for everyone.
+
+🔭 Currently building BillSmart — receipt intelligence for everyday Indian users
+🧠 Practicing Data Structures & Algorithms on LeetCode daily
+📚 Learning AI/ML through real, shipped projects — not just tutorials
+🎨 National-level artist — design thinking bleeds into everything I build
+🌏 Based in India | Building for Bharat
 
 
+🛠️ Tech Stack
+<div align="center">
+Languages & Core
+Show Image
+Show Image
+Show Image
+Show Image
+Frameworks & Libraries
+Show Image
+Show Image
+Show Image
+Show Image
+Data & AI
+Show Image
+Show Image
+Show Image
+</div>
 
----
+🚀 Featured Project — BillSmart
+<div align="center">
 
-## 🛠 Tech Stack
+AI-powered receipt scanner & expense tracker — built for India.
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+</div>
+BillSmart solves a problem 500 million UPI users face daily: where did the money actually go? Point your camera at a receipt, and BillSmart handles the rest.
+FeatureDetails📸 Receipt ScanningEasyOCR extracts line items and totals from any receipt photo🏷️ Smart CategorizationAuto-tags expenses (Food, Transport, Utilities, etc.)📊 Live DashboardStreamlit-powered real-time spending analytics🇮🇳 Built for IndiaHandles Indian receipt formats, UPI references, and regional text
+Stack: Python · EasyOCR · Pandas · Streamlit · SQLite
+Show Image
+
+📊 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kir-an-n&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165"/>
 &nbsp;
-<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="50"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="50"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kir-an-n&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kir-an-n&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
+</div>
 
----
-
-## 🚀 Featured Project
-
-### 🧾 BillSmart
-> AI-powered receipt scanner and expense tracker built for 500M+ Indian UPI users.
-> Scans receipts → extracts prices → categorizes spending → live dashboard.
-> Built with Python, EasyOCR, Pandas, Streamlit.
-
----
-
-## 📌 Currently
-- Building BillSmart — receipt intelligence for Indian users
-- Practicing DSA on LeetCode
-- Learning AI/ML through real projects
-
----
-
-## 🎨 Beyond Code
-National level drawing competition participant • Video editor • Storyteller
-
----
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kir-an-n&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=kir-an-n&color=blue" />
-</p>
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
-🔗 [Live Demo](https://billsmart-8aqppmtesqkrqcxfk5mpyn.streamlit.app/)
+<div align="center">
+"Ship it. Learn from it. Build the next one better."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
