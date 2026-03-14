@@ -1,4 +1,4 @@
-<div align="center">
+Readme · MDCopy<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kiran&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Engineer%20%7C%20AI%20Developer&descAlignY=55&descSize=18" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+AI-powered+products+%F0%9F%9A%80;Python+%7C+Streamlit+%7C+Flask+%7C+Django;Turning+real+problems+into+real+software;National+Level+Artist+%F0%9F%8E%A8+%7C+DSA+Grinder+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
 <br/>
@@ -60,4 +60,4 @@ Show Image
 <div align="center">
 "Ship it. Learn from it. Build the next one better."
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
+</di
